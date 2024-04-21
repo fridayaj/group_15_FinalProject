@@ -1,3 +1,15 @@
+﻿<!--
+# Name: Aidan Friday
+# email: fridayaj@uc.mail.edu
+# Assignment Title: Final Project
+# Due Date: 4/23/24
+# Course: IS 3050
+# Semester/Year: Spring 2024
+# Brief Description: Solve leet code and display it 
+# Citations: LeetCode.com, ChatGPT, Professor Nicholson
+# Anything else that's relevant:
+-->
+
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="final_example._default" %>
 
 <!DOCTYPE html>
