@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h2>LeetCode Number to Roman Numeral converter</h2>
+            <h2>LeetCode Number to Roman Numeral converter | Medium</h2>
             <asp:Label ID="Label1" runat="server" Text="Problem Description: Given a random integer, return the number input in Roman Numeral form"></asp:Label>
             <br />
             <asp:TextBox ID="NumberTextBox" runat="server"></asp:TextBox>
