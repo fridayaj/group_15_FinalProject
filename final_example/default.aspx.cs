@@ -1,4 +1,16 @@
-﻿using System;
+﻿/*
+# Name: Aidan Friday
+# email: fridayaj@uc.mail.edu
+# Assignment Title: Final Project
+# Due Date: 4/23/24
+# Course: IS 3050
+# Semester/Year: Spring 2024
+# Brief Description: Solve leet code and display it 
+# Citations: LeetCode.com, ChatGPT, Professor Nicholson
+# Anything else that's relevant:
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;

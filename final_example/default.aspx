@@ -10,7 +10,7 @@
 # Anything else that's relevant:
 -->
 
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="final_example._default" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="final_example._default" %>
 
 <!DOCTYPE html>
 

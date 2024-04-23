@@ -88,6 +88,7 @@
     <Compile Include="default_Aidan.aspx.designer.cs">
       <DependentUpon>default_Aidan.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Aidan_Solution.cs" />
     <Compile Include="default_Andrew.aspx.cs">
       <DependentUpon>default_Andrew.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
